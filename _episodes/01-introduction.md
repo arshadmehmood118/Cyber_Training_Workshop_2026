@@ -17,15 +17,7 @@ title: "1. Introduction to our CyberInfrastructure. Setups and key links."
 
 
 
- [Start here](../files/Alexey_Akimov/Intro-June12.pdf)
-
 ## Videorecordings
-
- <iframe src="https://ub.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=55a5043f-06df-47da-91b7-b01f0121a81e
-&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&interactivity=all" height="900" width="800" 
-style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
-
-
 
 
 <a name="ubvpn"></a>

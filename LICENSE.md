@@ -8,10 +8,15 @@ root: .
 
 | Software | Links |
 |----------|-------|
-| Libra | [Website (Code and Installation)](https://github.com/Quantum-Dynamics-Hub/libra-code/tree/devel) | [Website (general description, tutorials, old installation)](https://quantum-dynamics-hub.github.io/libra/index.html) |   [Tutorials](https://github.com/compchem-cybertraining/Tutorials_Libra) |
-| NWChem | [Website](https://nwchemgit.github.io ) |
-| GAMESS-US | [Website](https://www.msg.chem.iastate.edu/gamess/) |
-| Quantics and MCTDH | [Website](http://www.chem.ucl.ac.uk/quantics/)  |
+| ChemML | [Website](https://hachmannlab.github.io/chemml/)  |
+| PySCF | [Website](https://pyscf.org/) |
+| Psi4  | [Website](https://psicode.org/) |
+| SQA+  | [Website](https://github.com/sokolov-group/sqa_plus) |
+| Prism | [Website](https://github.com/sokolov-group/prism/) |
+| OpenMolcas | [Website](https://gitlab.com/Molcas/OpenMolcas) |
+| PySpawn | [Website](https://github.com/blevine37/pySpawn17) |
+| Libra | [Website (Code and Installation)](https://github.com/Quantum-Dynamics-Hub/libra-code/tree/devel) |   [Tutorials](https://github.com/compchem-cybertraining/Tutorials_Libra) |
+| TENSO | [Website](https://github.com/ifgroup/pytenso) |
 
 
 ## Instructors, co-instructors, and credits
@@ -21,22 +26,17 @@ root: .
 | Name            | Affiliation         |    Role/Software covered   |
 | --------------- | ------------------- | -------------------------- |
 | [Dr. Alexey Akimov](https://akimovlab.github.io/)         |   University at Buffalo, USA      | Workshop coordinator, Instructor for: **Libra, DFTB+, CP2k, etc.** |
-| [Dr. Niri Govind](https://www.pnnl.gov/people/niri-govind) | Pacific Northwest National Lab, USA | Instructor for: **NWChem** |
-| [Dr. Daniel Mejia Rodriguez](https://www.pnnl.gov/people/daniel-mejia-rodriguez) | Pacific Northwest National Lab, USA | Instructor for: **NWChem** |
-| [Dr. Edoardo Apra](https://www.pnnl.gov/people/edoardo-apra) | Pacific Northwest National Lab, USA | Instructor for: **NWChem** |
-| [Dr. Michael Filatov](https://www.researchgate.net/scientific-contributions/Michael-FilatovGulak-2222210516) | Kyungpook National University, Department of Chemistry, South Korea | Instructor for: **GAMESS-US, pyUNIxMD** |
-| [Dr. Graham Worth](https://www.chem.ucl.ac.uk/worthgrp/) | University College London, UK | Instructor for: Quantics, MCTDH |
-| [Dr. Micheline Soley](https://sites.google.com/site/michelinesoley/home) | University Wisconsin-Madison, USA | Instructor for: **TT-SOFT, TT-Chebyshev** |
+| [Dr. Johannes Hachmann](https://hachmannlab.cbe.buffalo.edu/) | University at Buffalo, USA | Instructor for: **ChemML, ML** |
+| [Dr. Alexander Sokolov](https://research.cbc.osu.edu/sokolov.8/) | The Ohio State University, USA | Instructor for: **PySCF, Psi4, Prism, SQA+** |
+| [Dr. Benjamin Levine](https://levinegroup.org/) | Stony Brook Univeristy, USA | Instructor for: **OpenMolcas, PySpawn** |
+| [Dr. Arshad Mehmood](https://arshadmehmood118.github.io/) | Stony Brook Univeristy, USA | Instructor for: **OpenMolcas, PySpawn** |
+| [Dr. Ignacio Franco](https://sas.rochester.edu/chm/groups/franco/) | University of Rochester, USA | Instructor for: **TENSO** |
 
 ### Our co-instructors/helpers
 
 | Name            | Affiliation         |    Role/Software covered   |
 | --------------- | ------------------- | -------------------------- |
-| Dr. Eryn Spinlove | University College London, UK | Co-instructor for: Quantics, MCTDH |
-| Mr. Qingxin Zhang   |  University at Buffalo, US | Co-instructor for: **Libra, pyUNIxMD** |
 | Mr. Mohammad Shakiba   |  University at Buffalo, US | Co-instructor for: **Libra, CP2K** |
-| Dr. Konstantin Komarov | Pohang University of Science and Technology, South Korea | Co-instructor for: **GAMESS-US, pyUNIxMD** |
-| Ms. Elizabeth Stippel | University of Southern California | Co-instructor for: **Pysces** |
 
 ### The UB Center for Computational Research team
 
