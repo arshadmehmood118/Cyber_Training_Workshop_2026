@@ -29,11 +29,11 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 ## About the Summer School and Workshop  
 
-The 2026 CyberTraining Summer School and Workshop, **“Modeling Quantum Dynamics of Excited States in Materials in the Era of Machine Learning,”** is 
+The 2026 CyberTraining Summer School and Workshop, **Modeling Quantum Dynamics of Excited States in Materials in the Era of Machine Learning,** is 
 an intensive, programming-driven training program focused on state-of-the-art theoretical and computational approaches for excited-state and nonadiabatic 
 dynamics in molecular and materials systems.
 
-This year’s theme emphasizes the integration of **quantum dynamics, electronic structure theory, and machine learning (ML)** into unified, 
+This years theme emphasizes the integration of **quantum dynamics, electronic structure theory, and machine learning (ML)** into unified, 
 research-ready workflows. Participants will gain both conceptual foundations and practical, hands-on experience in simulating excited states, charge 
 and energy transfer processes, and open quantum system dynamics in atomistic and model systems.
 
@@ -59,7 +59,7 @@ The program will cover foundational and advanced topics including:
 - Reproducible workflows, best practices, Git, and GitHub
 
 A strong emphasis will be placed on understanding the **underlying theoretical machinery**, numerical algorithms, and 
-implementation details — enabling participants not only to use advanced tools, but also to extend and develop them.
+implementation details  enabling participants not only to use advanced tools, but also to extend and develop them.
 
 ---
 
@@ -87,11 +87,11 @@ implementations for quantum dynamics and machine learning integration. The train
 
 ---
 
-## Capstone Research Integration  
+## Capstone Research Integration
 
-The school will culminate in a **capstone project**, where participants apply the tools and methodologies 
-learned during the program to a research-relevant problem. These presentations will demonstrate the ability to construct end-to-end 
-computational workflows for modeling excited-state phenomena in materials and molecular systems.
+The school will culminate in a **capstone project**, where participants apply the tools and methodologies
+learned during the program to a research-relevant problem. These presentations will demonstrate the ability to construct end-to-end
+computational workflows for modeling excited-state phenomena in materials and molecular systems
 
 ---
 
@@ -106,7 +106,7 @@ The CyberTraining program goes beyond a traditional computational chemistry curr
 - Tools to integrate machine learning into excited-state modeling
 
 By the end of the workshop, participants will be prepared to model, analyze, and extend modern approaches to quantum dynamics of 
-excited states in materials — positioning them at the forefront of computational research in the era of machine learning.
+excited states in materials  positioning them at the forefront of computational research in the era of machine learning.
 
 The school will leverage the [OnDemand](https://ondemand.ccr.buffalo.edu) gateway at the University at Buffalo
 
@@ -344,14 +344,14 @@ The program is particularly suited for researchers engaged in:
 - Machine learning approaches for quantum and excited-state simulations
 
 Postdoctoral researchers and faculty members seeking hands-on experience with modern simulation tools, software ecosystems, and 
-reproducible workflows — as well as deeper conceptual understanding of excited-state and nonadiabatic methods — are strongly encouraged to apply.
+reproducible workflows  as well as deeper conceptual understanding of excited-state and nonadiabatic methods  are strongly encouraged to apply.
 
 
 ### Selection and Restrictions
 
 - **Competitive selection.** Applications will be evaluated based on the strength and clarity of the statement of purpose, 
-  the level of fundamental preparation, and the quality of the supervisor’s support (when applicable). Prior experience with specialized 
-  software or advanced nonadiabatic methods is *not* required. More important is the applicant’s demonstrated motivation, readiness to learn, 
+  the level of fundamental preparation, and the quality of the supervisor's support (when applicable). Prior experience with specialized 
+  software or advanced nonadiabatic methods is **not** required. More important is the applicants demonstrated motivation, readiness to learn, 
   ability to engage intensively in a programming-driven environment, and the anticipated impact of the training on their future research, teaching, or career development.
 
 - **Capacity.** The 2026 school will be held in an in-person format. Participation is limited to up to 20 in-person attendees (excluding instructors), 
