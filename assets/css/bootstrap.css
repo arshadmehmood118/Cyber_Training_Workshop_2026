@@ -5032,13 +5032,13 @@ a.badge:focus {
   margin-left: 3px;
 }
 .jumbotron {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  margin-bottom: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
   color: inherit;
-  background-color: #eeee88;
   background-image: url("../img/logo.png");
-  background-position: 0% 25%;
+  background-color: #ffffff;
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 

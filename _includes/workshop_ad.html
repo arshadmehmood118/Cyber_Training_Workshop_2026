@@ -1,16 +1,12 @@
 {% comment %}
   Advertising box at the top of a workshop website home page.
 {% endcomment %}
-<div class="jumbotron">
-  <div class="row">
-    <div class="col-md-10 col-md-offset-1">
-      <h2>{{page.venue}}</h2>
-      <div class="row">
-        <div class="col-md-6">
+<div class="jumbotron text-center" style="min-height: 400px;">      
+        <div class="col-md-8"></div>
+        <div class="col-md-4">
+          <p style="font-size: 24px; font-weight: 300">{{page.venue}}</p>
           <p>{{page.humandate}}</p>
           <p>{% if page.humantime %}{{page.humantime}}{% endif %}</p>
-        </div>
-        <div class="col-md-6">
           <p>
           <strong>Instructors:</strong>
           {% if page.instructor %}
@@ -19,14 +15,5 @@
           to be announced.
           {% endif %}
           </p>
-          {% if page.helper %}
-          <p>
-          <strong>Helpers:</strong>
-          {{page.helper | join: ', ' %}}
-          </p>
-          {% endif %}
         </div>
-      </div>
-    </div>
-  </div>
 </div>
