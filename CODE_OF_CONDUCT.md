@@ -63,7 +63,7 @@ title: "Projects and Participants"
 | 33     | Aniket Mandal        | PD      | Rutgers University             | USA      | Michele Pavanello | in-person          | N/A     |
 | 34     | Ferdawss Ihiri       | GRA-3   | UCLA                           | USA      | Miguel Garcia-Garibay, Anastassia Alexandrova    | in-person  | N/A     |
 | 35     | Owen Holt-Frank      | GRA-2   | Georgia Institute of Technology | USA     | Joshua Kretchmer  | in-person          | N/A     |
-| 36     | Deogki Hong          | PD      | UT Dallas                      | USA      | Kyeongjae Cho     | in-person          | N/A     |
+| 36     | Deokgi Hong          | PD      | UT Dallas                      | USA      | Kyeongjae Cho     | in-person          | N/A     |
 | 37     | Jesse Velasco        | GRA-2   | University of New Mexico       | USA      | Oleg Prezhdo      | in-person          | N/A     |
 | 38     | Kosar Yasin          | GRA-4   | University at Buffalo, SUNY    | USA      | Alexey Akimov     | in-person          | N/A     |
 | 39     | Layla Heidarizadeh   | GRA-4   | University at Buffalo, SUNY    | USA      | Alexey Akimov     | in-person          | N/A     |
