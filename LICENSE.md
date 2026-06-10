@@ -36,7 +36,8 @@ root: .
 
 | Name            | Affiliation         |    Role/Software covered   |
 | --------------- | ------------------- | -------------------------- |
-| Mr. Mohammad Shakiba   |  University at Buffalo, US | Co-instructor for: **Libra, CP2K** |
+| Dr. Mohammad Shakiba   |  University at Buffalo, US | Co-instructor for: **Libra, CP2K** |
+| Mr. Juan Camilo Rodríguez Betancourt | University of Rochester, US | Co-instructor for: **TENSO** |
 
 ### The UB Center for Computational Research team
 

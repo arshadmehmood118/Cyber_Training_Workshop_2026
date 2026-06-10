@@ -32,7 +32,7 @@ title: "Projects and Participants"
 |  2     | Marshall McCord      | GRA-2   | North Dakota State University  | USA      | Svetlana Kilina   | remote             | N/A     |
 |  3     | Dong Le              | GRA-3   | University at Buffalo, SUNY    | USA      | Jochen Autschbach | in-person          | N/A     |
 |  4     | Victor Freixas       | PD      | UC, Irvine                     | USA      | Shaul Mukamel     | in-person          | N/A     |
-|  5     | Jieyang Gu           | GRA-1   | Bowling Green State University | USA      | Shaul Mukamel     | in-person          | N/A     |
+|  5     | Jieyang Gu           | GRA-1   | Bowling Green State University | USA      | Alexey Akimov     | remote             | N/A     |
 |  6     | Isaac Huidobro       | GRA-2   | McMaster University            | Canada   | Rodrigo A. Vargas-Hernandez  | remote  | N/A     |
 |  7     | Chanikya Jayawardana | GRA-3   | University of South Carolina   | USA      | Vitaly Rassolov   | in-person          | N/A     |
 |  8     | Sidra Azam           | MPhil   | University of Sargodha         | Pakistan | Tauqeer Ahmad     | remote             | N/A     |
