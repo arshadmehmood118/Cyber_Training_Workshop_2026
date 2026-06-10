@@ -26,9 +26,6 @@ title: "Projects and Participants"
 
 ## Participants 
 
-| Number | Name                 | Role    | Institution                    | Country  | Supervisor        | Participation Mode | Outcome |
-|--------|----------------------|---------|--------------------------------|----------|-------------------|--------------------|---------|
-|  1     | Saheer V.C.          | FAC-PHD | Government Brennen College     | India    |             N/A   | in-person          | N/A     |
 
 Notes:
 >
