@@ -11,13 +11,13 @@ We ask that you configure your accounts prior to June 30 so the CCR staff can ad
 You have been provided two accounts (via direct emails from the CCR), which can be a little confusing. 
 One is an account that gets you access to the University at Buffalo's VPN network and the other is the account you'll use on CCR's resources 
 like the cluster. **In order to connect to our machines, you have to be on the UB network.**  If you're attending the workshop in-person, 
-**when on-campus you'll use the Eduroam or UB Guest WiFi network**. Instructions for using these can be found on the university's IT website.
+**when on-campus you'll use the Eduroam or UB Guest WiFi network**. Instructions for using these can be found on the [university's IT website](https://www.buffalo.edu/ubit/service-guides/connecting/wifi/guest.html).
 When you're off-campus, you'll use the UB VPN to access UB's network prior to connecting to CCR.
 
  
-## Step 1: Setup two factor authentication for your UB VPN account, following these instructions. 
+## Step 1: Setup two factor authentication for your UB VPN account, following [these instructions](https://docs.ccr.buffalo.edu/en/latest/howto/external/#ub-vpn). 
 
-The username for this account is: itorg\uccr.UBID 
+The username for this account is: **itorg\uccr.UBID** 
 
 > NOTE: Your username and VPN password will be sent in a separate email. Everywhere you see "UBID" in these instructions, substitute the username provided.
 
@@ -34,13 +34,13 @@ The UB account provided here will not work for the Globus service.
 > NOTE: this link is only accessible using the email address this is getting sent to. If you cannot access it, please let CCR staff know.
 
  
-## Step 3: Connect to the CCR VPN – following these instructions.
+## Step 3: Connect to the CCR VPN – following [these instructions](https://docs.ccr.buffalo.edu/en/latest/howto/external/#ub-vpn).
 
-* When you start the Cisco software the first time you will need to enter the following in the box labeled "Connect to:" `vpn.buffalo.edu` 
+* When you start the Cisco software the first time you will need to enter the following in the box labeled "Connect to:" **vpn.buffalo.edu** 
 
-* Select CCR from the group drop down menu
+* **Select CCR** from the group drop down menu
 
-* Enter the UB VPN username WITHOUT the itorg in front (e.g. `uccr.UBID` - remember to substitute UBID with you actual username) and password provided. 
+* Enter the UB VPN username WITHOUT the itorg in front (e.g. **uccr.UBID** - remember to substitute UBID with you actual username) and password provided. 
 
 * You'll be prompted to ask how you want to received the second factor from Duo.
 
@@ -58,9 +58,7 @@ Now that you have setup the UB account and connected to the VPN, you'll be able 
 > NOTE: If you see a "403" or "something bad happened" or a blank page, please clear your browser cache and cookies and restart your browser (or use a different browser).
  
 
-## Step 5: Enable two factor authentication on your CCR account following these instructions. 
-
-Instructions can be found [here](https://docs.ccr.buffalo.edu/en/latest/2fa/)
+## Step 5: Enable two factor authentication on your CCR account following [these instructions](https://docs.ccr.buffalo.edu/en/latest/2fa/). 
 
  
 **FINALLY ... Connect to CCR!**

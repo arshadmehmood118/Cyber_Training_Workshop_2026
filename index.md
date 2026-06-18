@@ -184,7 +184,7 @@ The details may vary and the order of topics may be changed, the topics may be o
 
   
   <tr>
-    <td class="col-md-3">July 6, 2026 (Day 1), <strong>Monday</strong></td>
+    <td class="col-md-3">July 6, 2026 (Day 1), Monday, Where: <strong>NSC 201</strong></td>
     <td class="col-md-7">
       <ul>
         <strong>Morning, 9 am - noon</strong>        
@@ -205,7 +205,7 @@ The details may vary and the order of topics may be changed, the topics may be o
   </tr>
 
   <tr>
-    <td class="col-md-3">July 7, 2026 (Day 2), Tuesday</td>
+    <td class="col-md-3">July 7, 2026 (Day 2), Tuesday, Where: <strong>NSC 210</strong></td>
     <td class="col-md-7">
       <ul>
         <strong>Morning, 9 am - noon</strong>
@@ -226,7 +226,7 @@ The details may vary and the order of topics may be changed, the topics may be o
   </tr>
 
   <tr>
-    <td class="col-md-3">July 8, 2026 (Day 3), Wednesday</td>
+    <td class="col-md-3">July 8, 2026 (Day 3), Wednesday, Where: <strong>Clemens 120</strong></td>
     <td class="col-md-7">
       <ul>
         <strong>Morning, 9 am - noon</strong>        
@@ -247,7 +247,7 @@ The details may vary and the order of topics may be changed, the topics may be o
   </tr>
 
   <tr>
-    <td class="col-md-3">July 9, 2026 (Day 4), Thursday</td>
+    <td class="col-md-3">July 9, 2026 (Day 4), Thursday, Where: <strong>NSC 201</strong></td>
     <td class="col-md-7">
       <ul>
         <strong>Morning, 9 am - noon</strong>        
@@ -264,7 +264,7 @@ The details may vary and the order of topics may be changed, the topics may be o
   </tr>
 
   <tr>
-    <td class="col-md-3">July 10, 2026 (Day 5), Friday</td>
+    <td class="col-md-3">July 10, 2026 (Day 5), Friday, Where: <strong>Clemens 120</strong></td>
     <td class="col-md-7">
       <ul>
         <strong>Morning, 9 am - noon</strong>        
