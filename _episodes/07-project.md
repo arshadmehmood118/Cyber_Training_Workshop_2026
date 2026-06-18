@@ -39,7 +39,6 @@ The committee of instrcutors will score the written projects by July 22th and a 
 July 24-26 (the exact dates are to be determined). The presentations will be videorecorded and shared on the CyberTraining website (down below). 
  
 
-
 # 2. Guidelines and scoring criteria 
 
 To be added
