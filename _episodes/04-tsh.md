@@ -133,7 +133,55 @@ located at `/projects/academic/cyberwksp21/Students/<my working folder>`
 
 # 3. Lesson plan
 
-To be added 
+## 1. Abstract model Hamiltonians (morning session)
+
+### 1.1. Abstract (model Hamiltonian) NA-MD: 
+
+ - **General NAMD:** 6_dynamics/1_trajectory_based/10_model_many_methods
+ - **FMO example:** 6_dynamics/1_trajectory_based/12_model_spin_boson_fmo
+
+### 1.2. Exact dynamics with PyTorch: 
+
+ - **1D, 1 state:** 6_dynamics/4_wavepackets/6_soft_with_pytorch/1_single_state
+ - **1D, multiple states:** /6_dynamics/4_wavepackets/6_soft_with_pytorch/2_multiple_states
+
+
+## 2. Atomistic Hamiltonians (afternoon session)
+
+### 2.1. Maing course: NBRA workflow with CP2K
+
+ - **Step 1: adiabatic MD**  11_program_specific_methods/3_cp2k_methods/6_hpc_namd_workflow/1_step1
+ - **Step 2: single-particle time-overlaps**  11_program_specific_methods/3_cp2k_methods/6_hpc_namd_workflow/2_step2
+ - **Step 3: TD-DFT time-overlaps**  11_program_specific_methods/3_cp2k_methods/6_hpc_namd_workflow/3_step3
+ - **Step 4: NBRA NA-MD** 6_dynamics/2_nbra_workflows/9_step4
+
+### 2.2. Additional modules 
+
+#### A. Computing time-overlaps
+
+ - **Advanced Step 3 with CP2K:** 11_program_specific_methods/3_cp2k_methods/5_namd_workflow
+ - **Steps 2 and 3 for DFTB+:** 11_program_specific_methods/4_dftbplus_methods/3_workflow
+ - **Steps 2 and 3 for MOPAC:** 
+
+    - 11_program_specific_methods/5_mopac_methods/1_initial_tutorial
+    - 11_program_specific_methods/5_mopac_methods/2_using_active_spaces
+     
+#### B. Pre-NAMD analysis
+
+ - **Time-resolved energies and influence spectra/spectral densities:** 11_program_specific_methods/3_cp2k_methods/3_time_resolved_energies
+ - **Composition of excited states in therms of determinants:** 11_program_specific_methods/3_cp2k_methods/4_excitation_analysis
+
+#### C. Running NA-MD
+ 
+ - **Additional example of NBRA run:** 6_dynamics/2_nbra_workflows/10_generic_step3_4/1_Example1
+ - **Non-NBRA example with DFTB+:** 11_program_specific_methods/4_dftbplus_methods/4_non_nbra_workflow
+
+
+#### D. Post-NAMD analysis 
+
+ - **Plotting TRPES:** 6_dynamics/2_nbra_workflows/18_plotting_trpes
+
+
 
 
 
