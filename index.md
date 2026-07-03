@@ -209,17 +209,15 @@ The details may vary and the order of topics may be changed, the topics may be o
     <td class="col-md-7">
       <ul>
         <strong>Morning, 9 am - noon</strong>
-        <li><a href="/_episodes/03-electronic_structure">Electronic structure methods overview. Lecture and Demos (30 min)</a></li>
-        <li><a href="/_episodes/03-electronic_structure">Hands on with basic calculations with PySCF/Psi4 (60 min)</a></li>
-        <li><a href="/_episodes/03-electronic_structure">Advanced electronic structure methods with PySCF/Psi4. Lecture and Demos (50 min)</a></li>
-        <li><a href="/_episodes/03-electronic_structure">Hands on exercises (40 min)</a></li>
+        <li><a href="/_episodes/03-electronic_structure">Motivation and day overview (25 min)</a></li>
+        <li><a href="/_episodes/03-electronic_structure">Testing environment (5 min)</a></li>
+        <li><a href="/_episodes/03-electronic_structure">Single-reference methods: theory, practical guidelines, live demos (45 min)</a></li>
+        <li><a href="/_episodes/03-electronic_structure">Single-reference methods breakout session (105 min)</a></li>
         <strong>Noon - 1:30 pm</strong> Lunch break
         <strong>Afternoon, 1:30 pm - 5:00 pm</strong>
-        <li><a href="/_episodes/03-electronic_structure">Second quantization algebra and its application to Multireference Algebraic Diagrammatic Construction (MR-ADC) Theory. Lecture (50 min)</a></li>
-        <li><a href="/_episodes/03-electronic_structure">Hands on exercises with second quantization algebra using SQA+ (60 min)</a></li>
-        <li><a href="/_episodes/03-electronic_structure">N-electron valence perturbation theory (NEVPT) and multireference algebraic diagrammatic construction theory (MR-ADC). Lecture and Demos (40 min)</a></li>
-        <li><a href="/_episodes/03-electronic_structure">Spectroscopic calculations with Prism. Hands on exercises (40 min)</a></li>
-        <li><a href="/_episodes/07-project">Working on projects. Collaborations (20 min)</a></li>
+        <li><a href="/_episodes/03-electronic_structure">Multireference methods: theory, practical guidelines, live demos (45 min)</a></li>
+        <li><a href="/_episodes/03-electronic_structure">Multireference methods breakout session (90 min)</a></li>
+        <li><a href="/_episodes/03-electronic_structure">Reports from each group (75 min)</a></li>
       </ul>
     </td>
     <td class="col-md-2">Alexander Sokolov</td>
