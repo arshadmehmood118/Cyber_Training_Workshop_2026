@@ -10,8 +10,6 @@ root: .
 |----------|-------|
 | ChemML | [Website](https://hachmannlab.github.io/chemml/)  |
 | PySCF | [Website](https://pyscf.org/) |
-| Psi4  | [Website](https://psicode.org/) |
-| SQA+  | [Website](https://github.com/sokolov-group/sqa_plus) |
 | Prism | [Website](https://github.com/sokolov-group/prism/) |
 | OpenMolcas | [Website](https://gitlab.com/Molcas/OpenMolcas) |
 | PySpawn | [Website](https://github.com/blevine37/pySpawn17) |
@@ -27,7 +25,7 @@ root: .
 | --------------- | ------------------- | -------------------------- |
 | [Dr. Alexey Akimov](https://akimovlab.github.io/)         |   University at Buffalo, USA      | Workshop coordinator, Instructor for: **Libra, DFTB+, CP2k, etc.** |
 | [Dr. Johannes Hachmann](https://hachmannlab.cbe.buffalo.edu/) | University at Buffalo, USA | Instructor for: **ChemML, ML** |
-| [Dr. Alexander Sokolov](https://research.cbc.osu.edu/sokolov.8/) | The Ohio State University, USA | Instructor for: **PySCF, Psi4, Prism, SQA+** |
+| [Dr. Alexander Sokolov](https://research.cbc.osu.edu/sokolov.8/) | The Ohio State University, USA | Instructor for: **PySCF, Prism** |
 | [Dr. Benjamin Levine](https://levinegroup.org/) | Stony Brook Univeristy, USA | Instructor for: **OpenMolcas, PySpawn** |
 | [Dr. Arshad Mehmood](https://arshadmehmood118.github.io/) | Stony Brook Univeristy, USA | Instructor for: **OpenMolcas, PySpawn** |
 | [Dr. Ignacio Franco](https://sas.rochester.edu/chm/groups/franco/) | University of Rochester, USA | Instructor for: **TENSO** |
