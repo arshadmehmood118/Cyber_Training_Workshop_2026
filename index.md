@@ -69,8 +69,8 @@ Hands-on sessions will guide participants through practical workflows using mode
 community-driven software platforms, including:
 
 - ChemML (Hachmann)
-- Prism/SQA+ (Sokolov)
-- PySCF / Psi4 (Sokolov)
+- PySCF (Sokolov)
+- Prism (Sokolov)
 - PySpawn / OpenMolcas (Levine / Mehmood)
 - TENSO (Franco)
 - CP2K / DFTB+ / MOPAC (Akimov)
