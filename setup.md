@@ -1,5 +1,20 @@
 ---
 title: Setup
+objectives:
+- CyberTraining 2026, Monday morning
+Time: Jul 6, 2026 09:00 AM Eastern Time (US and Canada)
+Join Zoom Meeting
+https://buffalo.zoom.us/j/99907913677?pwd=xzY1771VpSYoHGu3qKtuobUsu3BmqU.1
+Meeting ID: 999 0791 3677
+Passcode: 400877
+
+- CyberTraining 2026, Monday afternoon
+Time: Jul 6, 2026 01:30 PM Eastern Time (US and Canada)
+Join Zoom Meeting
+https://buffalo.zoom.us/j/91070005592?pwd=NW7TUZY8fRQCbpTaXbeFnmWn0JdJ7n.1
+Meeting ID: 910 7000 5592
+Passcode: 184609
+
 ---
 
 <a name="toc"></a>
