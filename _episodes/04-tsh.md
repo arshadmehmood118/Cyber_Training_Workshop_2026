@@ -1,5 +1,25 @@
 ---
 title: "4. Nonadiabatic Dynamics and Trajectory Surface Hopping with Libra"
+questions:
+- "How do I activate and run libra environment?"
+- "How do I set up Jupyter on the OOD knowing libra environment?"
+- "How do I conduct TSH calculations with analytic (model) Hamiltonians using Libra code?"
+- "How do I conduct exact quantum calculations on the grid using Lbira code?"
+- "How do I conduct atomistic NBRA calculations using Libra and CP2K/MOPAC/DFTB+ codes?"
+- "How do I conduct atomistic on-the-fly calculations using Libra/DFTB+ interface?"
+- "How do I compute properties of interest that characterize NA-MD"
+objectives:
+- "Activate libra Conda environment"
+- "Install Jupyter kernel for libra environment"
+- "Learn theory and machniery behind TSH calculations with Libra"
+- "Conduct TSH calculations for spin-boson and other model Hamiltonians using a variety of TSH schemes"
+- "Conduct a 4-steps workflow for NBRA calculations with Libra/CP2K"
+- "Compute time-overlaps, NACs for NBRA calculations using MOPAC or DFTB+"
+- "Execute on-the-fly TSH calculations for small molecules using Libra/DFTB+ interface"
+- "Compute descriptive properties such as population dynamics, influence spectra, NAC distributions, etc."
+keypoints:
+- "TBD"
+
 ---
 
 # 1. Setting up individual Jupyter kernel for using Libra on the OOD (Open On Demand)
@@ -186,9 +206,9 @@ located at `/projects/academic/cyberwksp21/Students/<my working folder>`
 
 ## 4.1. Thursday, July 9, Morning
 
-[Presentation](../files/Akimov/2026_July9-parts-1-3.pdf)
+[Libra Overview, simplified introduction into TSH methods](../files/Akimov/2026_July9-parts-1-3.pdf)
 
-[Presentation](../files/Akimov/2026_July9-part4.pdf)
+[Algorithms, methods and options for Libra](../files/Akimov/2026_July9-part-4.pdf)
 
 
 
