@@ -4,7 +4,7 @@ title: "4. Nonadiabatic Dynamics and Trajectory Surface Hopping with Libra"
 
 # 1. Setting up individual Jupyter kernel for using Libra on the OOD (Open On Demand)
 
-## 1. Add this in your `.bashrc`:
+## 1.1. Add this in your `.bashrc`:
 
 ```bash
 module use /projects/academic/cyberwksp21/MODULES
@@ -17,13 +17,13 @@ Restart your terminal or reload your `.bashrc`:
 source ~/.bashrc
 ```
 
-## 2. Activate libra environment and install jupyter kernel in user location:
+## 1.2. Activate libra environment and install jupyter kernel in user location:
 ```bash
 conda activate libra 
 python -m ipykernel install     --user     --name libra     --display-name "Python (libra)"
 ```
 
-## 3. Update the `kernel.json` file in `/user/<your username>/.local/share/jupyter/kernels/libra` to be like this:
+## 1.3. Update the `kernel.json` file in `/user/<your username>/.local/share/jupyter/kernels/libra` to be like this:
 
 
 ```bash
@@ -44,7 +44,7 @@ python -m ipykernel install     --user     --name libra     --display-name "Pyth
 > Note: Replace `<your username>` with your actual user name e.g. `alexeyak`
 
 
-## 4. Create the file `launcher.sh` in `/user/<your username>/.local/share/jupyter/kernels/libra` to be like this:
+## 1.4. Create the file `launcher.sh` in `/user/<your username>/.local/share/jupyter/kernels/libra` to be like this:
 
 ```bash
 #!/bin/bash
@@ -83,9 +83,9 @@ And make it executable:
 chmod +x .local/share/jupyter/kernels/libra/launcher.sh
 ```
 
-## 5. Launch Jupyter on the OOD without any additional modules load needed
+## 1.5. Launch Jupyter on the OOD without any additional modules load needed
 
-## 6. In the started Jupyter select "Python (libra)" kernel
+## 1.6. In the started Jupyter select "Python (libra)" kernel
 
 
 # 2. Starting tutorials
@@ -94,7 +94,7 @@ The Libra tutorials are available at [https://github.com/compchem-cybertraining/
 
 it is advisable that you just clone this repository to your local working directory and go from there. 
 
-## 1. Go to your working directory, e.g.:
+## 2.1. Go to your working directory, e.g.:
 ```bash
 cd /projects/academic/cyberwksp21/Students/alexeyak/libra_examples`
 ```
@@ -104,15 +104,15 @@ or go to your home directory:
 cd
 ```
 
-## 2. Clone the Tutorials_Libra repository:
+## 2.2. Clone the Tutorials_Libra repository:
 
 ```bash
 git clone https://github.com/compchem-cybertraining/Tutorials_Libra.git
 ```
 
-## 3. Start your Jupyter app on the OOD and open the desired tutorial/example
+## 2.3. Start your Jupyter app on the OOD and open the desired tutorial/example
 
-## 4. Keep in mind that Jupyter app run on the OOD can "see" only your home directory. 
+## 2.4. Keep in mind that Jupyter app run on the OOD can "see" only your home directory. 
 If you keep your examples elsewhere, e.g. on the `/projects/academic/cyberwksp21/Students/alexeyak`,
 
 you need to create a symlink (symbolic link) to that directory in your home directory, e.g.:
@@ -133,29 +133,29 @@ located at `/projects/academic/cyberwksp21/Students/<my working folder>`
 
 # 3. Lesson plan
 
-## 1. Abstract model Hamiltonians (morning session)
+## 3.1. Abstract model Hamiltonians (morning session)
 
-### 1.1. Abstract (model Hamiltonian) NA-MD: 
+### 3.1.1. Abstract (model Hamiltonian) NA-MD: 
 
  - **General NAMD:** 6_dynamics/1_trajectory_based/10_model_many_methods
  - **FMO example:** 6_dynamics/1_trajectory_based/12_model_spin_boson_fmo
 
-### 1.2. Exact dynamics with PyTorch: 
+### 3.1.2. Exact dynamics with PyTorch: 
 
  - **1D, 1 state:** 6_dynamics/4_wavepackets/6_soft_with_pytorch/1_single_state
  - **1D, multiple states:** /6_dynamics/4_wavepackets/6_soft_with_pytorch/2_multiple_states
 
 
-## 2. Atomistic Hamiltonians (afternoon session)
+## 3.2. Atomistic Hamiltonians (afternoon session)
 
-### 2.1. Maing course: NBRA workflow with CP2K
+### 3.2.1. Maing course: NBRA workflow with CP2K
 
  - **Step 1: adiabatic MD**  11_program_specific_methods/3_cp2k_methods/6_hpc_namd_workflow/1_step1
  - **Step 2: single-particle time-overlaps**  11_program_specific_methods/3_cp2k_methods/6_hpc_namd_workflow/2_step2
  - **Step 3: TD-DFT time-overlaps**  11_program_specific_methods/3_cp2k_methods/6_hpc_namd_workflow/3_step3
  - **Step 4: NBRA NA-MD** 6_dynamics/2_nbra_workflows/9_step4
 
-### 2.2. Additional modules 
+### 3.2.2. Additional modules 
 
 #### A. Computing time-overlaps
 
@@ -180,6 +180,17 @@ located at `/projects/academic/cyberwksp21/Students/<my working folder>`
 #### D. Post-NAMD analysis 
 
  - **Plotting TRPES:** 6_dynamics/2_nbra_workflows/18_plotting_trpes
+
+
+# 4. Presentations and Videorecordings
+
+## 4.1. Thursday, July 9, Morning
+
+[Presentation](../files/Akimov/2026_July9-parts-1-3.pdf)
+
+[Presentation](../files/Akimov/2026_July9-part4.pdf)
+
+
 
 
 
