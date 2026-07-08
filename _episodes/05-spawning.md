@@ -53,14 +53,14 @@ lives in those two repositories.
 
 # Table of Contents
 
-1. [Lecture: Electronic-Structure Methods for Excited States (60 min)](#1)
+1. [Lecture: Theory of Multireference Electronic Structure Calculations (60 min)](#1)
 2. [Hands On: OpenMolcas Excited-State Tutorials](#2)
-3. [Lecture: Spawning and Ab Initio Multiple Spawning with PySpawn (60 min)](#3)
+3. [Lecture: Ab Initio Multiple Spawning (60 min)](#3)
 4. [Hands On: PySpawn AIMS Dynamics](#4)
 
 ---
 
-## 1. Lecture: Electronic-Structure Methods for Excited States (60 min) <a name="1"></a>
+## 1. Lecture: Theory of Multireference Electronic Structure Calculations (60 min) <a name="1"></a>
 
 [Back to TOC](#table-of-contents)
 
@@ -140,7 +140,7 @@ Reference outputs are provided so you can follow the analysis even if a long job
 
 ---
 
-## 3. Lecture: Spawning and Ab Initio Multiple Spawning with PySpawn (60 min) <a name="3"></a>
+## 3. Lecture: Ab Initio Multiple Spawning (60 min) <a name="3"></a>
 
 [Back to TOC](#table-of-contents)
 
